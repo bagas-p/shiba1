@@ -10,7 +10,7 @@ jobs:
 
   build:
 
-    name: kapten_crypto
+    name: jajal
 
     runs-on: windows-latest
 
