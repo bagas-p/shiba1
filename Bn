@@ -1,0 +1,18 @@
+$bmerah = "\033[41m";$r="\033[0m";$white = "\033[1;97m";$red = "\033[1;31m";$green = "\033[1;32m";
+system("clear");
+echo slow("\033[1;97m────────────────────────────[$white$bmerah XD-Fantasy $r]────────────────────────\n");
+echo Slow( $red." ██╗  ██╗██████╗");echo Slow( $white."  [✓] CREATOR   :$green BP12\n");
+echo Slow( $red." ╚██╗██╔╝██╔══██╗");echo Slow( $white." [✓] THANKS TO :$green ALL MEMBER GROUP BP-12\n");
+echo Slow( $red."  ╚███╔╝ ██║  ██║");echo Slow( $white." [✓] SUPPORT   :$green All Team XD-Fantasy\n");
+echo Slow( $white."  ██╔██╗ ██║  ██║");echo Slow( $white." [✓] SCRIPT    :$green $sc \n");
+echo Slow( $white." ██╔╝ ██╗██████╔╝");echo Slow( $white." [✓] VERSION   :$green $v.0 \n");
+echo Slow( $white." ╚═╝  ╚═╝╚═════╝");echo Slow( $white."  [✓] YOUR IP   :$red $ip\n");  
+echo slow("\033[1;97m──────────────────────────────────────────────────────────────────\n");
+echo Slow("  $red ✓ WARNING! PROGRAM ILEGAL SEGALA RESIKO DI TANGGUNG SENDIRI$r\n");
+echo slow("\033[1;97m──────────────────────────────────────────────────────────────────\n");
+echo Slow("$white Please Subscribe🙏\r");
+sleep(3);
+system('termux-open https://youtube.com/c/BagasPrasetyo12');
+echo Slow("$white Thanks🙏                    \r");
+sleep(2);
+echo Slow("                        \r");
